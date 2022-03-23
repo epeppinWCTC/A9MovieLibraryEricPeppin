@@ -1,0 +1,11 @@
+videoId,title,format,length,regions
+1,Blue Streak,"DVD,BluRay",120,"0,2"
+2,The Lord of the Rings,"DVD,BluRay",140,"0,1,2"
+3,The Wall,"VHS,DVD",190,"0,2"
+4,The Simpsons,VHS,101,"0,2,4"
+5,Click,DVD,90,"0,2"
+6,Taxi,BluRay,65,"0,2"
+7,Dr. Dolittle,"DVD,BluRay",99,"0,2"
+8,Harry Potter and the Goblet of Fire,"VHS,DVD,BluRay",121,0
+9,Harry loves Sally,VHS,320,"0,2"
+10,"Planes, Trains, and Automobiles",DVD,105,"0,2"
